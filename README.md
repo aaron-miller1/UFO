@@ -6,8 +6,11 @@ This project is meant to display a data sheet of UFO sightings across the countr
 #### Results
 In order to better find what you are looking for, multiple search criteria have been provided to the left of the data to narrow down your list.
 ![image](https://user-images.githubusercontent.com/102704559/175841272-cadc0edf-cb2d-4392-bdba-2e9b16d63481.png)
+
+
 These items inclue, Date, Country, City, State, and Object Shape. To filter through these items enter the appropriate data into a field and hit enter and the list will auto update with your results once you complete. However, be aware that these must be exact matches to what is in the list, including capitalization or lack thereof. So it would be recommended to take a quick clance at the list to see how it is formatted before narrowing your search with filters. 
 ![image](https://user-images.githubusercontent.com/102704559/175841406-b8b4f66d-cea6-44d2-8fdb-6c09de1fc9e3.png)
+
 If done correctly the list should be lessened based on the filters.
 
 
